@@ -25,3 +25,8 @@
 - **Institution**: University of Engineering and Technology Taxila Pakistan
 - **GitHub Link**: https://github.com/EmanKhaliq49
 
+- **Name**:  Muhammad Shoaib
+- **Role**: Comtributor
+- **Institution**: UET Taxila Pakistan
+- **GitHub Link**: https://github.com/Shoaib237124
+
