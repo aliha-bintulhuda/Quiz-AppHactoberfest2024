@@ -20,4 +20,8 @@
 - **GitHub Link**: https://github.com/ZeeshanAhmad85
 
 
+- **Name**: Eman Khaliq
+- **Role**: Contributor
+- **Institution**: University of Engineering and Technology Taxila Pakistan
+- **GitHub Link**: https://github.com/EmanKhaliq49
 
