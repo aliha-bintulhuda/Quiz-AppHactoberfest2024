@@ -19,7 +19,7 @@
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**: https://github.com/ZeeshanAhmad85
 
-- - **Name**: Iqra Fatima (UETT MLSA) 
+- - **Name**: Iqra Fatima 
 - **Role**: Comtributor
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**:https://github.com/IqraFatima-Coder
