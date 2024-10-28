@@ -1,6 +1,6 @@
 - **Name**: Syed Moazam Ali
 - **Role**: Maintainer
-- **Institution**: UET Taxila Pakistan
+- **Institution**: University of Engineering and Technology Taxila Pakistan 
 - **GitHub Link**: https://github.com/MoazamAli45
 
 - **Name**: Siddharth Goel
@@ -18,3 +18,6 @@
 - **Role**: Comtributor
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**: https://github.com/ZeeshanAhmad85
+
+
+
