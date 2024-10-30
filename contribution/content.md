@@ -34,7 +34,11 @@
 - **Role**: Comtributor
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**: https://github.com/Shoaib237124
-- 
+
+- **Name**: Aliha Bintul Huda
+- **Role**: Comtributor
+- **Institution**: UET Taxila Pakistan
+- **GitHub Link**:https://github.com/aliha-bintulhuda
 
 - **Name**:  Laiba Ashfaq
 - **Role**: Comtributor
