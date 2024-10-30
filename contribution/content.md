@@ -31,17 +31,17 @@
 - **GitHub Link**: https://github.com/EmanKhaliq49
 
 - **Name**:  Muhammad Shoaib
-- **Role**: Comtributor
+- **Role**: Contributor
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**: https://github.com/Shoaib237124
 
 - **Name**: Aliha Bintul Huda
-- **Role**: Comtributor
+- **Role**: Contributor
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**:https://github.com/aliha-bintulhuda
 
 - **Name**:  Laiba Ashfaq
-- **Role**: Comtributor
+- **Role**: Contributor
 - **Institution**: UET Taxila Pakistan
 - **GitHub Link**: https://github.com/laiba-Ashfaq
 
